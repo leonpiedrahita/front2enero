@@ -11,6 +11,7 @@
       sort-by="nombre"
       class="elevation-1"
       item-key="nit"
+      
       :loading="cargando"
       loading-text="Cargando ... por favor espere"
       ><!-- Se crea la data table secundaria para listar las sedes -->
